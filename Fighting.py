@@ -1,5 +1,4 @@
-# Name: Dylan Kenny
-# Student Number: 121352326
+
 
 import random
 
